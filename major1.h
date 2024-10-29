@@ -3,7 +3,7 @@
 
 // Function prototypes for the operations
 void power_of_2(int num);
-void reverseBits(int num);
+void reverseBits(unsigned int num);
 void replace_bit_position(int num, int mask);
 int check_palindrome(int num);
 
